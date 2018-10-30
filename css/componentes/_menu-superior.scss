@@ -52,7 +52,7 @@ nav {
 
     a{
         display: inline-block; //he cambiado a inline-block (de block) por que me jodia el footer, revisar!!
-        padding: 10px 20px;
+        
         text-decoration: none;
         font-size: 0.9em;
         color: gray;
@@ -78,3 +78,7 @@ nav .shadows {
     animation-iteration-count: 1;
 }
 /* =========FIN DE MENU============ */
+
+.menu_lista a{
+	padding: 10px 20px;
+}

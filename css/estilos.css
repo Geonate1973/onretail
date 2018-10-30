@@ -61,7 +61,6 @@ nav .menu_lista li:hover {
 
 a {
   display: inline-block;
-  padding: 10px 20px;
   text-decoration: none;
   font-size: 0.9em;
   color: gray;
@@ -88,6 +87,10 @@ nav .shadows {
 }
 
 /* =========FIN DE MENU============ */
+.menu_lista a {
+  padding: 10px 20px;
+}
+
 .slider-caja {
   width: 100%;
   max-width: 1700px;
@@ -368,63 +371,6 @@ video {
 }
 
 /* ======FIN CAJA DE IMAGEN O VIDEO SLIDER=============== */
-/* SLIDER GEO */
-#c-slider {
-  margin: auto;
-  width: 80%;
-  max-width: 900px;
-  position: relative;
-  overflow: hidden;
-  -webkit-box-shadow: 0 0 0 10px #fff, 0 15px 50px;
-          box-shadow: 0 0 0 10px #fff, 0 15px 50px;
-}
-
-#slider {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  width: 300%;
-}
-
-#slider section {
-  width: 100%;
-}
-
-#slider img {
-  display: block;
-  width: 100%;
-  height: 100%;
-}
-
-#btn-prev, #btn-next {
-  width: 40px;
-  height: 40px;
-  background: rgba(255, 255, 255, 0.5);
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
-  line-height: 40px;
-  font-size: 22px;
-  font-weight: bold;
-  text-align: center;
-  cursor: pointer;
-  border-radius: 50%;
-  font-family: monospace;
-}
-
-#btn-next:hover, #btn-prev:hover {
-  background: white;
-}
-
-#btn-prev {
-  left: 10px;
-}
-
-#btn-next {
-  right: 10px;
-}
-
 /*acordeon*/
 .accordion {
   background-color: #00a0c6;
@@ -615,7 +561,8 @@ div.panel {
 
 .contendor_proyectos_fotos .texto-foto-proyectos {
   margin-top: 20px;
-  width: 70%;
+  text-align: center;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
 }
