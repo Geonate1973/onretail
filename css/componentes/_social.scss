@@ -1,0 +1,23 @@
+/*-----------SOCIAL-----------*/
+
+.social {
+    float: right;
+
+    ul {list-style: none;
+        li {
+            display: inline;
+            padding: 10px 20px;
+        }
+    }
+    a {
+        color: gray;
+        transition: all 0.2s;
+
+        &:hover {
+            color: rgba(0,160,198,1.00);
+        }
+   
+    }
+
+}
+

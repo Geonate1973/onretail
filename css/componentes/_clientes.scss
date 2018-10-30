@@ -1,0 +1,59 @@
+// CLIENTES
+
+
+/* CLIENTES */
+.contenedor_clientes{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width:80%;
+    margin: auto;
+    
+    }
+    
+    
+      
+ .cliente-arte {
+        font-size: 1.1em;
+        text-align: center;
+        margin: 30px;
+        padding: 10px;
+        transition: all 0.5s;
+    
+        &:hover{
+            color:rgb(0,160,198);
+            font-weight: bold;
+            border-radius: 3%;
+            background-color: skyblue;
+            cursor: pointer;
+        }    }
+
+    .cliente-logo {
+        width: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 35px;
+        margin-right: 35px;
+        margin-bottom: 50px;
+        
+
+        img {
+            width: 100%;
+            transition: all 0.8s;
+            padding: 5px;
+            
+
+            &:hover{
+                filter: grayscale(80%);
+                cursor: pointer;
+                border: 0.1px solid black;
+               
+                
+            }    
+        }
+ 
+        
+    }
+
+    

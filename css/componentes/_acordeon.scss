@@ -1,0 +1,42 @@
+
+
+
+/*acordeon*/
+
+.accordion {
+    background-color:rgb(0, 160, 198);
+    padding: 10px 20px;
+    font-size: 1em;
+    font-family: 'Nunito Sans', sans-serif;
+    color:black;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+     span{
+      font-size: 0.85em;
+  }
+  .fas{
+      display:flex;
+      justify-content: flex-end;
+}
+}
+
+button.accordion.active, button.accordion:hover, {
+    background-color:rgb(77, 77, 77);
+	color:white;
+}
+
+div.panel {
+    width: 100%;
+    padding: 2px 18px;
+    background-color:#f2f2f2;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-out;
+}
+
+/* FINAL DE ACORDEON*/
+

@@ -1,0 +1,154 @@
+/* CSS Document */
+@import "componentes/menu-superior";
+@import "componentes/slider-banner";
+@import "componentes/banner-paginas";
+@import "componentes/nosotros";
+@import "componentes/slider";
+@import "componentes/slider-geo";
+@import "componentes/acordeon";
+@import "componentes/clientes";
+@import "componentes/ventana-modal";
+@import "componentes/proyectos";
+@import "componentes/staff";
+@import "componentes/social";
+@import "componentes/footer";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    width: 100%;
+    
+}
+body {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    font-family: 'Nunito Sans', sans-serif;
+    color:#424242;
+    
+}
+
+p{
+
+    font-family: 'Nunito Sans', sans-serif;
+	
+}
+
+p, a, li {
+    font-size: 14px;
+}
+
+h1{
+    margin-bottom: 20px;
+    font-size: 0.9em;	 
+   
+}
+h1, h2, h3{ 
+    color:#343638;
+    font-family: 'Nunito Sans', sans-serif;}
+
+.contenedor_master {
+    width: 100%;
+}
+
+header {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    img {
+        width: 200px;
+    }
+}
+
+
+.texto {
+    width: 70%;
+    margin: auto;
+    padding: 20px 0;
+    
+    h1 {
+        color: #343638;
+        font-family: 'Nunito Sans', sans-serif;
+        font-size: 2em; 
+    }
+    p{
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    
+}
+
+.lema {
+    font-size: 20px;
+    width: 100%;
+    font-weight: bold;
+    padding: 20px;
+    background-color: gray;
+    color: white;
+}
+
+
+
+
+/* ====CAJA CENTRAL CON DATOS DE LA EMPRESA===== */
+
+
+.datosempresa {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 30px 40px;
+    background: rgb(0,160,198);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.cajadedatosempresa {
+   // text-align: left;
+    // display: flex;
+    // flex-wrap: wrap;
+    width: 200px;
+    //margin-bottom: 20px;
+
+    p {
+        position: relative;
+        margin-top: 10px;
+        font-size: 13px;
+        color: white;
+        left:10px;    }
+
+    h2 {
+        margin:0;
+        padding: 0;
+        color: white;
+        //float: left;
+       // margin-right: 15px;
+        //align-items: baseline;
+        transition: all 0.5s;
+        border-bottom: 0.5px solid white;
+
+        :hover {
+            cursor: pointer;
+            color: skyblue;
+
+            i{
+                margin:0;
+                padding: 0;
+            }
+        }
+    }
+}
+
+
+/* ===FIN DE CAJA CENTRAL DE EMPRESA=== */
+
+
+
+

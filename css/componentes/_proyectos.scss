@@ -1,0 +1,58 @@
+// PROYECTOS
+
+.fondo-proyecto{
+	background: url(../img/bosquejo.png) repeat;
+	background-size: cover;
+}
+.contenedor_master_proyectos{
+	width:80%;
+	margin: auto;
+	
+
+	h3{
+		display: inline-block;
+		padding: 10px;
+		background: skyblue;
+	}
+}
+
+.contendor_proyectos_fotos{
+
+margin: auto;
+display: flex;
+justify-content: left;
+margin-bottom: 60px;
+flex-wrap: wrap;
+// border: 1px skyblue solid;
+// border-radius: 5px;
+padding: 10px;
+
+.texto-foto-proyectos{
+	margin-top:20px;
+	width:70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+}
+
+
+.caja_fotos{
+    width: 200px; 
+	height: 200px;
+	overflow: hidden;
+
+    img{
+		width: 220%;
+		transition: 0.5s all ease-in;
+		
+		&:hover{
+			filter: grayscale(80%);
+
+		}
+    }
+
+
+  
+}
+    
