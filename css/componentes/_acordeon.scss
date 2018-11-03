@@ -5,6 +5,7 @@
 
 .accordion {
     background-color:rgb(0, 160, 198);
+    margin-bottom: 10px;
     padding: 10px 20px;
     font-size: 1em;
     font-family: 'Nunito Sans', sans-serif;
@@ -37,6 +38,8 @@ div.panel {
     overflow: hidden;
     transition: max-height 0.4s ease-out;
 }
+
+
 
 /* FINAL DE ACORDEON*/
 
