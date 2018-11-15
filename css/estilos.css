@@ -94,6 +94,7 @@ nav .shadows {
 .slider-caja {
   width: 100%;
   max-width: 1700px;
+  margin: auto;
   background-color: white;
   overflow: hidden;
 }
@@ -397,6 +398,7 @@ fin de slider clientes
 .caja-slider {
   text-align: center;
   height: 550px;
+  margin: auto;
   background-color: #f3f3f4;
   overflow: hidden;
 }
