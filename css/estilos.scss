@@ -54,7 +54,7 @@ h1, h2, h3{
 }
 
 header {
-    background-color: black;
+    background-color: #383838;
     width: 100%;
     height: 100px;
     padding: 10px;
@@ -93,7 +93,40 @@ header {
     color: white;
 }
 
+.parpadea {
+  
+    animation-name: parpadeo;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+  
+    -webkit-animation-name:parpadeo;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+  }
+  
+  @-moz-keyframes parpadeo{  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+  }
+  
+  @-webkit-keyframes parpadeo {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+     100% { opacity: 1.0; }
+  }
+  
+  @keyframes parpadeo {  
+    0% { opacity: 1.0; }
+     50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+  }
 
+  .textocentrado{
+      text-align: center;
+  }
 
 
 /* ====CAJA CENTRAL CON DATOS DE LA EMPRESA===== */
