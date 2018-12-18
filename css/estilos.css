@@ -512,7 +512,6 @@ div.panel {
   -webkit-filter: grayscale(80%);
           filter: grayscale(80%);
   cursor: pointer;
-  border: 0.1px solid black;
 }
 
 /* VENTANA MODAL */
@@ -567,11 +566,6 @@ div.panel {
 }
 
 /* FIN DE VENTANA MODAL */
-.fondo-proyecto {
-  background: url(../img/bosquejo.png) repeat;
-  background-size: cover;
-}
-
 .contenedor_master_proyectos {
   width: 80%;
   margin: auto;
