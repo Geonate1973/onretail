@@ -1,8 +1,6 @@
 // PROYECTOS
 
-.fondo-proyecto{
-	
-}
+
 .contenedor_master_proyectos{
 	width:80%;
 	margin: auto;
@@ -12,6 +10,11 @@
 		display: inline-block;
 		padding: 10px;
 		background: skyblue;
+	}
+
+	@media screen and (max-width: 450px){
+		width:100%;
+
 	}
 }
 

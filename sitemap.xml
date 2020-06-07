@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://www.onretailperu.com/</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner1p.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner2p.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner3p.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.onretailperu.com/nosotros.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/cencosud.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/plaza_sm.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/centenario.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/grupo_romero.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/parque_arauco.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.onretailperu.com/servicios.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.onretailperu.com/clientes.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/clientes/ac capitales safi logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/clientes/alameda plaza.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/clientes/grupo conservi logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/clientes/base_capital.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/clientes/protecta security logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/clientes/conservi logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/clientes/develop logo 2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/clientes/grupo albamar logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/clientes/mahpsa logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/socios/ima logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/socios/jm polo arquitectos logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/socios/kensal logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/socios/lima-consulting-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/socios/metropolis logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.onretailperu.com/contactanos.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.onretailperu.com/index.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner1p.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner2p.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/banner3p.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.onretailperu.com/proyectos.html</loc>
+    <lastmod>2019-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/royal_plaza-(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/royal_plaza-(2).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/royal_plaza-(3).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/royal_plaza-(4).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/royal_plaza-(5).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/royal_plaza-(6).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MARBELLA - MAGDALENA/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MARBELLA - MAGDALENA/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MARBELLA - MAGDALENA/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/LURIN - LOS PINOS CENTER/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/LURIN - LOS PINOS CENTER/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/LURIN - LOS PINOS CENTER/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/SAN PEDRITO - SURCO/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/SAN PEDRITO - SURCO/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/SAN PEDRITO - SURCO/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MAR PLAZA - ILO/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MAR PLAZA - ILO/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MAR PLAZA - ILO/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/PLAZA LOS HEROES - PUENTE PIEDRA/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/PLAZA LOS HEROES - PUENTE PIEDRA/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/PLAZA LOS HEROES - PUENTE PIEDRA/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/PLAZA LOS HEROES - PUENTE PIEDRA/4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/canto-grande/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/canto-grande/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/casona-miraflores-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/casona-miraflores-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/casona-miraflores-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/casona-miraflores-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/BERTELLO - CERCADO/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/BERTELLO - CERCADO/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MI CIUDAD - BELLAVISTA CALLAO/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MI CIUDAD - BELLAVISTA CALLAO/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MI CIUDAD - BELLAVISTA CALLAO/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/LAS CAMELIAS - SAN ISIDRO/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/LAS CAMELIAS - SAN ISIDRO/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/LAS CAMELIAS - SAN ISIDRO/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MERCADERES USO MIXTO - SURCO/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/MERCADERES USO MIXTO - SURCO/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/QHATU PLAZA - SANTA CLARA/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/QHATU PLAZA - SANTA CLARA/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/QHATU PLAZA - SANTA CLARA/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/QHATU PLAZA - SANTA CLARA/4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/QHATU PLAZA - SANTA CLARA/5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/QHATU PLAZA - SANTA CLARA/6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/proyectos_fotos/QHATU PLAZA - SANTA CLARA/7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/cineplanet.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/diverticenter.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/canastas.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/efe.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/mass.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.onretailperu.com/img/archivos_nov/hikari2.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
+<!--<guid value="017985ed-adfd-4b7c-888f-70e6813c4f61" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
